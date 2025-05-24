@@ -1,6 +1,6 @@
 # Teste
-Testando
- testanto e testando 
+### Testando Markdown
+ testando e testando 
  testando e testando
 
 ## Redes Sociais
@@ -29,3 +29,11 @@ Testando
 
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+Numero|Nome|Nota
+---|---|---|
+1|Vanessa|10
+2|Fabio|9
+3|Romilda|9
