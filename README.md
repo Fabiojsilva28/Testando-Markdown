@@ -49,15 +49,16 @@ Numero|Nome|Nota
 **Fábio** = Negrito 
 
 *Fábio* = Itálico
-# Fábio = Titulo nv1
-## Fábio = Titulo nv2
-### Fábio = Titulo nv3
 
 ~~Fábio~~ = riscado
 
 ---  = traça uma linha
 
 __*Fábio*__ = Negrito/Itálico
+
+# Fábio = Titulo nv1
+## Fábio = Titulo nv2
+### Fábio = Titulo nv3
 
 ---
 
@@ -113,7 +114,7 @@ Acesse o Youtube www.youtube.com.br
   
  Para isso utilizamos crase no inicio e no final do texto
  
- Ex: ``Bahia vai ser campeão esse ano`` 
+ Ex: ``Bahia vai ser campeão esse ano.`` 
 
 ---
 
