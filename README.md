@@ -128,7 +128,8 @@ EX:  🐒
 Utilizar arroba junto com nome do Github da pessoa.
 EX: @gustavoguanabara  
       
+---
 
+# Imagens de ferramentas
 
-
-.
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,github,grafana,md,mysql,terraform,ubuntu,vscode,linux,kubernetes,gcp,zabbix)](https://skillicons.dev)
