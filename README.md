@@ -3,12 +3,15 @@
  testando e testando 
  testando e testando
 
+---
+
 ## Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 
 ---
-## Ferramentas
+
+## Ferramentas (Badges)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
@@ -27,13 +30,66 @@
 
 ---
 
-
+## Cards
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-
+## Tabela
 
 Numero|Nome|Nota
 ---|---|---|
 1|Vanessa|10
 2|Fabio|9
 3|Romilda|9
+
+---
+
+# Formatação Markdown
+
+**Fábio** = Negrito 
+
+*Fábio* = Itálico
+# Fábio = Titulo nv1
+## Fábio = Titulo nv2
+### Fábio = Titulo nv3
+
+~~ Fábio ~~ = riscado
+
+---  = traça uma linha
+
+__*Fábio*__ = Negrito/Itálico
+
+---
+
+## Lista numerada (Ajustar/Refazer/treinar)
+1. Livro
+1. Caderno
+1. Caneta
+
+   1.Caneta 
+   
+   1.Caneta Vermelha
+   
+   1.Caneta Verde
+   
+1. Mochila
+
+### Lista demarcada
+* Livro
+* Caderno
+* caneta
+   * Caneta azul
+   * Caneta Vermelha
+   * Caneta verde
+* mochila
+
+
+### Lista de Tarefas
+- [x] Comprar Livro
+- [ ] Comprar Caderno
+- [ ] Comprar Caneta
+- [x] Comprar Mochila
+
+---
+# Colocar Imagem 
+Arrastar a imagem para a parte inferior do GitHub onde tem escrito ``"Attach files by dragging & dropping, selection or paste them"``  
