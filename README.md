@@ -41,7 +41,7 @@ Numero|Nome|Nota
 1|Vanessa|10
 2|Fabio|9
 3|Romilda|9
-
+4|Cris|9,5
 ---
 
 # Formatação Markdown
@@ -100,8 +100,30 @@ Arrastar a imagem para a parte inferior do GitHub onde tem escrito ``"Attach fil
 ---
 
 # Colocando Link
-[Acesse o Youtube] (https://www.youtube.com/) (Com espaço).
+[Acesse o Youtube] (https://www.youtube.com/) (Com espaço [] () ).
 
-[Acesse o Youtube](https://www.youtube.com/)  (Sem espaço).
+[Acesse o Youtube](https://www.youtube.com/) 
 
-Acesse o Youtube (www.youtube.com.br) (Com espaço).
+Acesse o Youtube www.youtube.com.br 
+
+---
+
+# Destacar com Fundo Cinza
+  Muito usado para destacar comandos
+  
+ Para isso utilizamos crase no inicio e no final do texto
+ 
+ Ex: ``Bahia vai ser campeão esse ano`` 
+
+---
+
+# Adicionar Emogi
+Utilizar dois pontos junto com nome do emoji
+EX:  🐒
+
+---
+
+# Citações e Marcar pessoas
+Utilizar arroba junto com nome do Github da pessoa.
+EX: @gustavoguanabara  
+      
