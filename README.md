@@ -103,7 +103,7 @@ Arrastar a imagem para a parte inferior do GitHub onde tem escrito ``"Attach fil
 # Colocando Link
 [Acesse o Youtube] (https://www.youtube.com/) (Com espaço [] () ).
 
-[Acesse o Youtube](https://www.youtube.com/) 
+[Acesse o Youtube](https://www.youtube.com/)  (Sem espaço)
 
 Acesse o Youtube www.youtube.com.br 
 
