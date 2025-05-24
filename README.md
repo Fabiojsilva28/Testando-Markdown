@@ -53,7 +53,7 @@ Numero|Nome|Nota
 ## Fábio = Titulo nv2
 ### Fábio = Titulo nv3
 
-~~ Fábio ~~ = riscado
+~~Fábio~~ = riscado
 
 ---  = traça uma linha
 
