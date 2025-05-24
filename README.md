@@ -91,5 +91,14 @@ __*Fábio*__ = Negrito/Itálico
 - [x] Comprar Mochila
 
 ---
+
 # Colocar Imagem 
-Arrastar a imagem para a parte inferior do GitHub onde tem escrito ``"Attach files by dragging & dropping, selection or paste them"``  
+Arrastar a imagem para a parte inferior do GitHub onde tem escrito ``"Attach files by dragging & dropping, selection or paste them"``.  
+## Local para onde arrastar os arquivos 
+![Captura de tela 2025-05-23 213526](https://github.com/user-attachments/assets/bc9b8c83-3e08-4a4e-8a3b-9639057fd0df)
+
+---
+
+# Colocando Link
+[Acesse o Youtube] (www.youtube.com.br)
+
