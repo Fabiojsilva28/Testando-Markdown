@@ -1,11 +1,13 @@
-# Teste
-### Testando Markdown
- testando e testando 
- testando e testando
+# Markdown
+### Aprendendo Markdown
+ testando, testando, 
+ testando e testando.
+
+Obs: Para visualizar as Formatações e exemplos, clicar em editar para um melhor aprendizado.
 
 ---
 
-## Redes Sociais
+### Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 
